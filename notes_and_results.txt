@@ -1,0 +1,7 @@
+Data collection plan:
+
+============= Searches to run: =============
+
+Breadth-first search 
+Depth-first search
+

@@ -1,0 +1,61 @@
+=============================
+SEARCH ALGORITHM STATISTICS
+Highest rank in deck: 2
+Seed: 7452
+Search Cutoff: 250
+=============================
+
+--------------------------------------------------
+*** Recursive IDA* search with foundation heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 8.0
+Average States Explored: 17.0
+Average Success Time: 0.3232836127281189
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with well-placed heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 8.0
+Average States Explored: 17.0
+Average Success Time: 0.322985315322876
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with free heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 8.0
+Average States Explored: 12.0
+Average Success Time: 0.18727412223815917
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with difference-from-top heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 8.0
+Average States Explored: 19.0
+Average Success Time: 0.3758345127105713
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with lowest-home-card heuristic ***
+Success Rate: 0/20 (0.0%)
+Average Solution Length: 0.0
+Average States Explored: 0.0
+Average Success Time: 0.0
+Average Failure Time: 1.4211220383644103
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with highest-home-card heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 8.0
+Average States Explored: 16.0
+Average Success Time: 0.29503830671310427
+Average Failure Time: 0.0
+--------------------------------------------------
+

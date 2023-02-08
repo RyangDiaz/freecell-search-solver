@@ -1,0 +1,34 @@
+=============================
+SEARCH ALGORITHM STATISTICS
+Highest rank in deck: 6
+Seed: 356
+Search Cutoff: 500
+=============================
+
+--------------------------------------------------
+*** Recursive IDA* search with free heuristic ***
+Success Rate: 3/20 (15.0%)
+Average Solution Length: 28.666666666666668
+Average States Explored: 277.3333333333333
+Average Success Time: 14.101312955220541
+Average Failure Time: 29.760428190231323
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with difference-from-top heuristic ***
+Success Rate: 14/20 (70.0%)
+Average Solution Length: 30.5
+Average States Explored: 190.57142857142858
+Average Success Time: 10.499817848205566
+Average Failure Time: 28.791827479998272
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with highest-home-card heuristic ***
+Success Rate: 12/20 (60.0%)
+Average Solution Length: 29.083333333333332
+Average States Explored: 155.08333333333334
+Average Success Time: 8.36490797996521
+Average Failure Time: 20.6765156686306
+--------------------------------------------------
+

@@ -1,0 +1,127 @@
+=============================
+SEARCH ALGORITHM STATISTICS
+Highest rank in deck: 3
+Seed: 7452
+Search Cutoff 250
+=============================
+
+OMITTED:
+- Breadth-first search
+
+--------------------------------------------------
+*** Depth-first search ***
+Success Rate: 14/20 (70.0%)
+Average Solution Length: 72.28571428571429
+Average States Explored: 75.5
+Average Success Time: 2.1880101646695818
+Average Failure Time: 12.68435533841451
+--------------------------------------------------
+
+--------------------------------------------------
+*** A* search with foundation heuristic ***
+Success Rate: 18/20 (90.0%)
+Average Solution Length: 12.222222222222221
+Average States Explored: 20.666666666666668
+Average Success Time: 0.6233347919252183
+Average Failure Time: 22.61289608478546
+--------------------------------------------------
+
+--------------------------------------------------
+*** A* search with well-placed heuristic ***
+Success Rate: 18/20 (90.0%)
+Average Solution Length: 12.277777777777779
+Average States Explored: 20.0
+Average Success Time: 0.5804331435097588
+Average Failure Time: 21.18800115585327
+--------------------------------------------------
+
+--------------------------------------------------
+*** A* search with free heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 13.15
+Average States Explored: 19.15
+Average Success Time: 0.4982370615005493
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** A* search with difference-from-top heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 12.4
+Average States Explored: 14.15
+Average Success Time: 0.315211284160614
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** A* search with lowest-home-card heuristic ***
+Success Rate: 0/20 (0.0%)
+Average Solution Length: 0.0
+Average States Explored: 0.0
+Average Success Time: 0.0
+Average Failure Time: 27.34959896802902
+--------------------------------------------------
+
+--------------------------------------------------
+*** A* search with highest-home-card heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 12.4
+Average States Explored: 36.45
+Average Success Time: 1.4633343696594239
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** IDA* search with foundation heuristic ***
+Success Rate: 18/20 (90.0%)
+Average Solution Length: 12.222222222222221
+Average States Explored: 41.5
+Average Success Time: 1.2724181281195746
+Average Failure Time: 10.400911569595337
+--------------------------------------------------
+
+--------------------------------------------------
+*** IDA* search with well-placed heuristic ***
+Success Rate: 18/20 (90.0%)
+Average Solution Length: 12.277777777777779
+Average States Explored: 43.05555555555556
+Average Success Time: 1.3594290945265028
+Average Failure Time: 10.071064949035645
+--------------------------------------------------
+
+--------------------------------------------------
+*** IDA* search with free heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 13.15
+Average States Explored: 23.95
+Average Success Time: 0.6086397409439087
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** IDA* search with difference-from-top heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 12.4
+Average States Explored: 28.15
+Average Success Time: 0.8061717033386231
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** IDA* search with lowest-home-card heuristic ***
+Success Rate: 0/20 (0.0%)
+Average Solution Length: 0.0
+Average States Explored: 0.0
+Average Success Time: 0.0
+Average Failure Time: 25.20138010978699
+--------------------------------------------------
+
+--------------------------------------------------
+*** IDA* search with highest-home-card heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 12.4
+Average States Explored: 48.7
+Average Success Time: 1.8339659452438355
+Average Failure Time: 0.0
+--------------------------------------------------
+

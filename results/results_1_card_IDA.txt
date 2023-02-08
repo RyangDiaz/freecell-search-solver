@@ -1,0 +1,61 @@
+=============================
+SEARCH ALGORITHM STATISTICS
+Highest rank in deck: 1
+Seed: 87454
+Search Cutoff: 500
+=============================
+
+--------------------------------------------------
+*** Recursive IDA* search with foundation heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 4.0
+Average States Explored: 9.0
+Average Success Time: 0.04569741487503052
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with well-placed heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 4.0
+Average States Explored: 9.0
+Average Success Time: 0.04585452079772949
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with free heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 4.0
+Average States Explored: 5.0
+Average Success Time: 0.017305159568786622
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with difference-from-top heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 4.0
+Average States Explored: 10.0
+Average Success Time: 0.05276255607604981
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with lowest-home-card heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 4.0
+Average States Explored: 15.0
+Average Success Time: 0.0825229287147522
+Average Failure Time: 0.0
+--------------------------------------------------
+
+--------------------------------------------------
+*** Recursive IDA* search with highest-home-card heuristic ***
+Success Rate: 20/20 (100.0%)
+Average Solution Length: 4.0
+Average States Explored: 8.0
+Average Success Time: 0.037722539901733396
+Average Failure Time: 0.0
+--------------------------------------------------
+

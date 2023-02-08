@@ -1,0 +1,25 @@
+=============================
+SEARCH ALGORITHM STATISTICS
+Highest rank in deck: 6
+Seed: 356
+Search Cutoff: 500
+=============================
+
+--------------------------------------------------
+*** A* search with difference-from-top heuristic ***
+Success Rate: 14/20 (70.0%)
+Average Solution Length: 28.428571428571427
+Average States Explored: 225.71428571428572
+Average Success Time: 49.3332610470908
+Average Failure Time: 219.29267930984497
+--------------------------------------------------
+
+--------------------------------------------------
+*** IDA* search with difference-from-top heuristic ***
+Success Rate: 15/20 (75.0%)
+Average Solution Length: 28.466666666666665
+Average States Explored: 285.3333333333333
+Average Success Time: 31.56822395324707
+Average Failure Time: 283.007679605484
+--------------------------------------------------
+
